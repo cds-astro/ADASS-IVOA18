@@ -6,7 +6,7 @@ dependencies:
 - requests
 - astropy
 - astropy-healpix
-- astropy-regions
+- regions
 - matplotlib
 - astroquery
 - jupyter
