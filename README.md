@@ -9,3 +9,7 @@ adin`).
 3. Searches for a vizier table in optical regime having some observations in this MOC region (`astroquery.cds`).
 4. Retrieves this table using `astroquery.vizier`.
 5. Filters the table by the MOC (MOCPy) and adds the filtered table to the aladin view (`ipyaladin`) to see which observations from this table are really contained in the MOC.
+
+# Launch ADASS 2018 tutorial notebook with binder
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cds-astro/ADASS-IVOA18/master?filepath=adass2018.ipynb)
