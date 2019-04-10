@@ -1,6 +1,8 @@
 channels:
 - defaults
 - conda-forge
+- tboch
+
 
 dependencies:
 - requests
@@ -10,8 +12,8 @@ dependencies:
 - matplotlib
 - jupyter
 - ipywidgets
+- ipyaladin
 - pip:
   - git+https://github.com/astropy/astroquery.git
   - mocpy
-  - ipyaladin
   - spherical-geometry
