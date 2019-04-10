@@ -9,6 +9,7 @@ dependencies:
 - regions
 - matplotlib
 - jupyter
+- ipywidgets
 - pip:
   - git+https://github.com/astropy/astroquery.git
   - mocpy
