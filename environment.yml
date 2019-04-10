@@ -8,9 +8,9 @@ dependencies:
 - astropy-healpix
 - regions
 - matplotlib
-- astroquery
 - jupyter
 - pip:
+  - git+https://github.com/astropy/astroquery.git
   - mocpy
   - ipyaladin
   - spherical-geometry
